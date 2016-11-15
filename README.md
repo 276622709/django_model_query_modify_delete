@@ -2,6 +2,8 @@
 this is my second app in django  
 use models to display delete modify data in the sql  
 the pictures show the result of it  
-go on
+go on  
+![image](https://github.com/276622709/django/blob/master/images/first.png)
+![image](https://github.com/276622709/django/blob/master/images/second.png)
 
 
